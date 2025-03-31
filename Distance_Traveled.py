@@ -1,5 +1,3 @@
-# Author: Allan S
-# CIS-190
 # Program: Practical 1 - Distance Traveled
 
 #Formula
